@@ -1,8 +1,8 @@
 <h1 align="left">Hello, I'm Dmytro</h1>
 <h3 align="left">Mostly doing iOS and macOS</h3>
 
-- Demo project written using Composable Architecture [NewsApp (TCA branch)](https://github.com/DmitryLupich/NewsApp/tree/TheComposableAchitecture)
-- Demo project written using MVVM, UIKit and RxSwift/RxCocoa [NewsApp (MVVM branch)](https://github.com/DmitryLupich/NewsApp/tree/RxSwift)
+- Demo project written using [Composable Architecture](https://github.com/DmitryLupich/NewsApp/tree/TheComposableAchitecture)
+- Demo project written using [MVVM, UIKit and RxSwift/RxCocoa](https://github.com/DmitryLupich/NewsApp/tree/RxSwift)
 - Combine publishers for UIKit controls [Combine-UIKit](https://github.com/DmitryLupich/Combine-UIKit)
 - Promises concept implementation in Swift [Swift Promises](https://github.com/DmitryLupich/SwiftPromises)
 
